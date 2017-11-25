@@ -3,6 +3,7 @@ A nodejs and express service that provides and endpoint to request data
 
 
 To run this service:
+- Ensure [Node.js](https://nodejs.org/en/download/) is installed
 - Clone this repo
 - `npm install` to install dependencies
 - `node app.js` to run

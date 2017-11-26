@@ -1,6 +1,7 @@
 # example-nodejs-backend-svc
 A nodejs and express service that provides and endpoint to request data
 
+This service uses the [CoinMarketCap](https://coinmarketcap.com/api/) API to get a list of top ranked Cryptocurrencies
 
 To run this service:
 - Ensure [Node.js](https://nodejs.org/en/download/) is installed
